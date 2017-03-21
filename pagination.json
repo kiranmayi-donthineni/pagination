@@ -1,0 +1,55 @@
+{
+  "employee" :[
+    {
+      "empId" : "1",
+      "empName":"Kiranmayi",
+      "empAC": "123655478635"
+    },
+    {
+      "empId" : "2",
+      "empName":"Leela",
+      "empAC": "123655478635"
+    },
+    {
+      "empId" : "3",
+      "empName":"Sashi",
+      "empAC": "123655478635"
+    },
+    {
+      "empId" : "4",
+      "empName":"Bavani",
+      "empAC": "123655478635"
+    },
+    {
+      "empId" : "5",
+      "empName":"Mahadha",
+      "empAC": "123655478635"
+    },
+    {
+      "empId" : "6",
+      "empName":"Seema",
+      "empAC": "123655478635"
+    },
+    {
+      "empId" : "7",
+      "empName":"Nitya",
+      "empAC": "123655478635"
+    },
+    {
+      "empId" : "8",
+      "empName":"Nitya",
+      "empAC": "123655478635"
+    },
+    {
+      "empId" : "9",
+      "empName":"Nitya",
+      "empAC": "123655478635"
+    },
+    {
+      "empId" : "10",
+      "empName":"Nitya",
+      "empAC": "123655478635"
+    }
+
+  ]
+}
